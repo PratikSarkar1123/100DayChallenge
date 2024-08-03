@@ -1,0 +1,58 @@
+Before approaching this question I tried to understand difference between different operating system and different types of operating system 
+Different operating system tells about the numbers of OS present built by various developers and different type of OS serve different purposes and have different applications. 
+
+-> some of the most commonly used OS are 
+MS-DOS
+Windows Operating System 
+LINUX Operating System
+Android Mobile Operating System
+iOS Mobile Operating System
+FreeBSD 
+Chrome OS
+Mac OS
+
+So according to the topic the different OS used specially for cyber security are 
+
+1) Kali Linux - this is the OS which I will be learning this year for ethical hacking . It is widely popular for ethical hacking. It is Debian Linux based Operating system which was developed for testing and for digital forensics. 
+
+(Debian offers over 59,000 packages that support a wide range of capabilities. It provides                     vast community support includes many features which help new as well as experienced users like editing documents , developing software , debugging etc.)
+
+-> kali Linux is based on Debian distributed file system.  ext4 is the default file system used in kali Linux , some other file systems that can be used are NTFS, FAT, exFAT, HFS+, Ext3, UFS and YAFFS2.
+
+2) Parrot OS -  Parrot Security OS is built on Debian GNU/Linux and integrated with the Frozen box OS and Kali Linux. (FrozenBox os revolves are development of basic Debian operating system ). Parrot OS consumes less storage than kali Linux and also consumes lesser RAM than kali. 
+
+But the reason kali Linux is preferred over parrotOS is because of the extensive tools which are provided cybersecurity personals.
+
+Many more OS used for cybersecurity is 
+3) DEFT Linux 
+4) NodeZero Linux 
+5) Pentoo
+6) Blackbuntu 
+7) BackBox Linux 
+
+
+
+
+Install OS 
+since I recently install kali Linux onto my system , I used virtual machine to install my OS on it . Virtual machine is a virtual device . The physical components of virtual machine are present in remote location and we use the resources virtually. 
+
+Step 1 - to install VMware workstation we needed to open VMware download for windws on google . but the site showed connection error , so I checked youtube to fix the error . I found out that VMware are shifting their servers so site isn't working. 
+But they gave alternative link to download VMware for windows 
+
+step 2 - after downloading the exe file from the link . now we need to extract the file from downloaded link .
+
+step 3 - now install VMware and let the setting be in default and click on next 
+
+step 4 - save the file on C drive and wait until installation
+
+step 5 - now we need our os which is kali Linux . So we will proceed to google and search download kali Linux .
+
+step 6 - go to prebuilt VM and search VMware under 64bit machine . Since my laptop supports 64bit so install VMware of 64bit . 
+
+step 7 - You will get a pop up window where u can see 16gb data file is getting downloaded . file with vmx extension is important since that will be used to open your kali Linux on virtual machine .
+
+step 8 - open VMware and select open virtual machine , now select the vmx file which was downloaded previously. 
+
+step 9 - now wait for kali to load and you will get a page saying enter id and password . The id and password is kali and kali respectively 
+
+step 10- now you have successfully installed and logged in kali Linux . Press Control+Alt+T to open terminal and that's it 
