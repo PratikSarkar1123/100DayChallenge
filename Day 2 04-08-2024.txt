@@ -1,0 +1,55 @@
+To expand my knowledge of OS used in cybersecurity I tried to find out the OS specifically used for defensive and offensive purpose / actions.
+The OS for defensive action -
+
+1) Kali Linux -  Kali Linux includes tools for defensive operations such as monitoring network leakage or vulnerability also analyse fault etc.
+
+2) Parrot OS - A Debian based Linux system which provide platform for defensive cybersecurity tasks. Vulnerability detection and prevention , monitoring network , forensic tool , monitoring of privacy etc all are done on parrot OS
+
+3) SELinux (Security-Enchanced Linux)
+
+4) Red Hat Enterprise Linux (RHEL)
+
+And OS used for offensive cybersecurity operations are -
+
+1) kali Linux - usually it is used for penetration testing (also called as pen test it is an authorized simulated attack performed on a computer system to evaluate its security , testers use same tools and techniques as attackers to find weakness in a system and push it forward to other team so that they can resolve the vulnerability).
+
+2) Parrot OS - user friendly and includes lots of tool set for offensive and defensive approaches. 
+
+3) BlackArch Linux - The best part of Arch Linux is the amount of tool set you can use for offensive and defensive operations.  There are over 2000 security tools and can perform advanced security assessments .
+
+4) Pentoo
+ 
+5) BackBox
+
+while searching about OS used for  defensive operations in cybersecurity, i thought which OS is used in Defence Ministry Systems ,  Maya OS has reportedly been installed in India's Defence Ministry systems. It is an extension of the Ubuntu distribution of GNU/Linux. Maya OS ships with an end point detection and protection system "Chakravyuh" to protect against security threats.
+
+
+next topic is how security evolved over period of time . Security is essential in day to day life . Its not an recent topic in fact people use security in all possible essential or rare items which is of human use. As it was discussed in class it is not any new concept.
+
+-> Cybersecurity concepts was used from medieval ages where people used to protect there their secrets on stone carving or as simple as in caves where they hid their food , weapons etc. 
+
+-> Later lock and keys came into picture . People used to store their valuables and seal the containers using lock and their used to be a single key which could open the lock.  
+This was the situation after 14th century. 
+Also the first ciphering technique which was the Julius Caesar Cipher technique was used to encrypt any secret message. In this technique every letter in the secret message was changed to +3 of the original alphabet in the message and to decrypt -3 to the encrypted message or cipher text .
+
+-> After 17th century more stronger and bigger box like structure or we can call as safes where more valuables could be stored like money , documents , jwellery etc. As in pirates of the Caribbean movie all the pirates were looking for a key to unlock the chest which was locked , since there was only one key for the chest which could unlock it.
+This was the era where telegraphs were highly used , telegraph were used to transfer and receiving messages over long distances. To prevent the message from interruption the message usually used to be encrypted before sending. 
+Banks and other wealth storages used alarm system also personal whose only job was to protect the bank vaults in case of any attack from intruder.
+
+-> Now we come to the world war era (20th century) , since countries wanted to share messages among their ally country or message within their own country . That advanced cryptographic techniques were used by different countries eg. Mighty Germans used Enigma Machine (There looks like type writers , when u press a letter on this machine there a corresponding letter which glows on the machine and that is the encrypted message. The encrypted message depends on rotor which have 26 variations. To decrypt it you need to type the encrypted message once again)
+
+-> After the end of world war era there was huge rush in computer sector . Computer wasn't commercially used but was widely popular as many scientific calculation and programming on computer was in trend . Thats why to protect the computer data simple password were used and access control were practiced.
+ Then ARPANET was introduced which is Advanced research projects agency network which was first public packet switched computer used for academic and  research purposes. Packet switched means host computers were connected to ARPANET over telephonic lines using gateways (the first router). The data was broken down into bits and this process was known as packet switching.
+
+-> In late 19th century computer use was made commercial , people begin to be part of internet and slowly and gradually the community expanded. In parallel to this multiple security threats also evolved.  The term antivirus was introduced which means a combat malware which could protect a device from virus. 
+Firewall was used to protect data transmitted over networks.  Security standards and best practices, such as ISO/IEC 27001, started to be established to guide organizations in protecting their information assets.
+
+-> In early 2000s advanced cryptographic techniques like RSA and AES became standard for securing online communications  and transactions. RSA is asymmetric key encryption that is it uses public as well as private key for encryption and decryption whereas AES is symmetric technique for rapid encryption and decryption. 
+Use of routers and multiple switches attracted multiple security threat therefore intrusion detection systems (IDS) and intrusion prevention systems (IPS), helped protect against increasingly sophisticated cyberattacks.
+Authentication and Authorization mechanisms became common to enhance user security.
+Governments began enacting laws and regulations to address cybersecurity.
+
+-> In present days AI is playing integral part in identifying and responding to security threats in real time. AI tools are trained to be efficient in detecting and to respond cyber threats . As AI algorithms analyze massive amount of data to detect pattern that indicates cyber threats.
+BlockChain helps in providing a clear , immutable ownership history . It help in end to end transaction for users. 
+Also the use of Quantum Computing is pivotal in modern cybersecurity due to their advanced processing power which could solve modern cybersecurity problem much faster than todays computers. It is done by using individual particles of light or photons to transmit data over fibre optic wire. Here the photons represent binary bits.  
+
